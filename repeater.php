@@ -8,7 +8,7 @@
     <title>String Repeating</title>
 </head>
 <body>
-    <h1>Here ya go!</h1>
+    <h1>Here you go!</h1>
     <p><?php echo $repeated_text; ?></p>
 </body>
 </html>
